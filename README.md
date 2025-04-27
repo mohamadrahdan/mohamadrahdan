@@ -102,3 +102,9 @@ Remote Sensing: Sentinel Hub, Google Earth Engine, GDAL, Rasterio
 🌟 _Currently focused on building AI-powered solutions for environmental hazard detection using satellite data._  
 🇩🇪 _Available for remote roles or relocation to Germany in geospatial AI or Earth observation domains._
 
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamadrahdan&theme=gruvbox&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+</p>
