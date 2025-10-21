@@ -26,9 +26,9 @@ My work focuses on applying **machine learning** and **deep learning**—especia
 
 ### 📂 Selected Projects
 
-#### 🔹 [Linear Regression Model](https://www.kaggle.com/code/mohammadrahdanmofrad/linear-regression-model)  
-`Regression` `Supervised Learning` `Exploratory Modeling`  
-> Simple linear regression implementation for exploratory data modeling.
+#### 🔹 [Linear Regression Model](https://github.com/mohamadrahdan/Regression-Model-Improving-Accuracy)
+`machine-learning` `Regression` `Supervised Learning` `scikit-learn` `data-visualization` `feature-engineering` `car-prices`
+> Regression model focusing on accuracy improvement through feature engineering, scaling, and R² analysis on car-price data.
 
 ---
 
