@@ -1,26 +1,35 @@
-<h1 align="center">Hi, I'm Mo.Rahdan 👋</h1>
+# 👋 Hi, I'm **Mo Rahdan**
 
-<p align="center">
-  Geospatial Data Scientist | GIS Developer | Machine Learning | Deep Learning | Computer Vision  
-</p>
+**Geospatial Data Scientist | GIS Developer | Machine Learning | Deep Learning | Computer Vision**
 
 ---
 
-🌍 **About Me**  
-I'm a geospatial data scientist and GIS developer working at the intersection of **remote sensing** and **AI**.  
-My work focuses on applying **machine learning** and **deep learning**—especially **semantic segmentation** and **computer vision**—to satellite imagery (mainly Sentinel-2) for **automatic detection of environmental phenomena** such as landslides.
+## 🌍 About Me  
 
-🚀 I design end-to-end pipelines using tools like Docker, FastAPI, and PyTorch to automate the entire geospatial ML workflow from data acquisition to model inference.
+I'm a **Geospatial Data Scientist** and **GIS Developer** working at the intersection of **Remote Sensing** and **Artificial Intelligence**.  
+My research focuses on applying **Machine Learning** and **Deep Learning** — especially **Semantic Segmentation** and **Computer Vision** — to satellite imagery (mainly *Sentinel-2*) for automatic detection of environmental phenomena such as **landslides**.
+
+🚀 I design **end-to-end GeoAI pipelines** using tools like **Docker**, **FastAPI**, and **PyTorch** to automate the full workflow — from data acquisition and preprocessing to model training, inference, and visualization.
 
 ---
 
-### 🔬 Areas of Expertise
+## 🚀 My GeoAI Journey  
 
-- 🌍 Geospatial Data Science & GIS Development  
-- 🚁 Satellite Image Processing (Sentinel-2, Sentinel Hub API)  
-- 🤖 Machine Learning & Deep Learning (CNN, U-Net, DeepLab)  
-- 🧠 Semantic Segmentation for Hazard Detection  
-- ⚙️ Dockerized AI Pipelines & FastAPI APIs
+| Stage | Focus | Repository | Description |
+|:------:|:------|:------------|:-------------|
+| 🟩 **Stage 1** | ML Foundations | [General-ML-Projects](https://github.com/mohamadrahdan/General-ML-Projects) | Building intuition with classic datasets and models. |
+| 🟨 **Stage 2** | GeoAI Transition | [GeoAI-Landslide-Risk-Pipeline](https://github.com/mohamadrahdan/GeoAI-Landslide-Risk-Pipeline) | Integrating geospatial analysis with ML-based hazard modeling. |
+| 🟥 **Stage 3** | Cloud Deployment | [GeoAI-Cloud-Pipeline](https://github.com/mohamadrahdan/GeoAI-Cloud-Pipeline) | Deploying deep-learning models for real-world hazard detection. |
+
+---
+
+## 🔬 Areas of Expertise  
+
+- 🌍 **Geospatial Data Science & GIS Development**  
+- 🚁 **Satellite Image Processing** (*Sentinel-2, Sentinel Hub API*)  
+- 🤖 **Machine Learning & Deep Learning** (*CNN, U-Net, DeepLabv3*)  
+- 🧠 **Semantic Segmentation for Hazard Detection**  
+- ⚙️ **Dockerized AI Pipelines & FastAPI APIs**  
 
 ---
 
